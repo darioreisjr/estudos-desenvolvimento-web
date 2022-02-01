@@ -1,6 +1,7 @@
 # Estudos 
 
 Estudos da plataforma DIO
+- JavaScript Função
 
 Estudos da plataforma Alura
 
